@@ -9,7 +9,7 @@ COURSENAME  : TECHNOLOGY AND INFORMATION SYSTEM \
 COURSE CODE : SECP1513 \
 LECTURER    : DR SURIATI BINTI SADIMON 
 
-MY GIT ACCOUNT: https://github.com/XNerk
+MY GIT ACCOUNT: https://github.com/XNerk   \
 MY E-PORTOLFIO: https://xnerk.github.io/Tinesh
 
 You may find all the files within the folder. 
